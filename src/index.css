@@ -4,3 +4,13 @@
   padding: 0;
   font-family: sans-serif;
 }
+
+:root {
+  --primary: #08161b;
+  --secondary: #839496;
+}
+
+body {
+  background-color: var(--primary);
+  color: var(--secondary);
+}

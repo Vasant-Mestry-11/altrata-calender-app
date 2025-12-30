@@ -1,5 +1,5 @@
 .container {
-  border: 1px solid red;
+  border: 1px solid var(--secondary);
   padding: 1rem;
 }
 
@@ -13,4 +13,5 @@
   grid-template-columns: repeat(7, 1fr);
   gap: 0.625rem;
   text-align: end;
+  font-size: 1.1rem;
 }
