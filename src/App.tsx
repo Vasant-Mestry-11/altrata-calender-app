@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="app">
       {/*  Assuming here that format will be mm/dd/yyyy */}
-      <Calender date="03/23/2022" />
+      <Calender date="12/30/2025" />
     </div>
   );
 }
