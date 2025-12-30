@@ -26,7 +26,7 @@ npm install
 npm run dev
 ```
 
-### Clone
+### Test Cases
 
 To run test case use below command
 ```js
