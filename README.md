@@ -25,3 +25,10 @@ cd altrata-calender-app
 npm install
 npm run dev
 ```
+
+### Clone
+
+To run test case use below command
+```js
+npm run test
+```
